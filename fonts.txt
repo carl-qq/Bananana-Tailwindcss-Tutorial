@@ -1,0 +1,5 @@
+      'os-reg': ['OpenSans-Regular'],
+      'os-medium': ['OpenSans-Medium'],
+      'os-italic': ['OpenSans-Italic'],
+      'os-bold': ['OpenSans-Bold'],
+      'os-semi': ['OpenSans-SemiBold'],

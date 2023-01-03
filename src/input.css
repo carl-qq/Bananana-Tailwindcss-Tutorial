@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+      font-family: 'OpenSans-Bold';
+      src: url(./fonts/OpenSans-Bold.ttf) format("truetype");
+    }
+    @font-face {
+        font-family: 'OpenSans-Italic';
+        src: url(./fonts/OpenSans-Italic.ttf) format("truetype");
+    }
+    @font-face {
+        font-family: 'OpenSans-Medium';
+        src: url(./fonts/OpenSans-Medium.ttf) format("truetype");
+    }
+    @font-face {
+        font-family: 'OpenSans-Regular';
+        src: url(./fonts/OpenSans-Regular.ttf) format("truetype");
+    }
+    @font-face {
+        font-family: 'OpenSans-SemiBold';
+        src: url(./fonts/OpenSans-SemiBold.ttf) format("truetype");
+    }
+}    
